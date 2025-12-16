@@ -1,0 +1,48 @@
+body {
+  background: #f7f7f7;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+.menu a{
+
+  color: #fff;
+  text-decoration: none;
+  margin-left: 15px;
+}
+
+.topo {
+  background: #111;
+  color: #fff;
+}
+
+.topo-interno {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.categoria {
+  background: white;
+  padding: 20px;
+  text-align: center;
+  border-radius: 6px;
+}
+
+.produto {
+  background: white;
+  padding: 10px;
+  border-radius: 6px;
+  text-align: center;
+
+}
+
+.grade-produtos img {
+  width: 300px;
+  height: 300px;
+}
+
